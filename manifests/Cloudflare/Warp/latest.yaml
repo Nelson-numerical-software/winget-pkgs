@@ -1,4 +1,4 @@
-# Automatically updated by the winget bot at 2020/Dec/07
+# Automatically updated by the winget bot at 2021/Feb/05
 Id: Cloudflare.Warp
 Version: latest
 Name: Warp Client
@@ -12,5 +12,5 @@ Homepage: https://one.one.one.one/
 Installers:
 - Arch: x64
   Url: https://1.1.1.1/Cloudflare_WARP_Release-x64.msi
-  Sha256: 2D77ACC02F3E18A5C28E4E204FF05BF0DE65650457D5328D50E817E3B76024A7
+  Sha256: AFC11CA952E14EAF7BC7ECADFEEA6D78266FA46D5C74FFB50D0E86E2EE6FD714
   InstallerType: msi
